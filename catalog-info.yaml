@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  test-name: z-backstage-yaml-file-attr-change
+  annotations:
+    github.com/project-slug: dpatel-crest/z-backstage-yaml-file-attr-change
+spec:
+  type: other
+  lifecycle: unknown
+  owner: dhrumit-patel-yaml
